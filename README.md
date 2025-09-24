@@ -1,6 +1,6 @@
 
 ## Description
-This project is a **cloud-based file storage and retrieval system** that allows users to **upload, store, and download files securely** using cloud services. It demonstrates practical experience with **cloud storage platforms** (AWS S3 / Google Cloud Storage) and integration of cloud APIs into applications.  
+This project is a **cloud-based file storage and retrieval system** that allows users to **upload, store, and download files securely** using cloud services. It demonstrates practical experience with **cloud storage platforms** (AWS S3) and integration of cloud APIs into applications.  
 
 The system can be implemented as a **console application** or a **simple web interface**, making it beginner-friendly yet effective for learning cloud computing concepts.
 
@@ -15,7 +15,7 @@ The system can be implemented as a **console application** or a **simple web int
 
 
 ## Tech Stack / Tools Used
-- **Programming Language:** Python or Java  
+- **Programming Language:**  or Java  
 - **Web Framework:** Flask (for optional web interface)  
-- **Cloud Service:** AWS S3 / Google Cloud Storage  
-- **Version Control:** Git / GitHub  
+- **Cloud Service:** AWS S3 
+- **Version Control:**  GitHub  
